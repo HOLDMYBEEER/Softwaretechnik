@@ -1,0 +1,97 @@
+Dateiname: 5_Minuten_Protein_Kaffee_Cake.txt
+
+-----------------------------------------
+| Rezept: 5-Minuten Protein Kaffee-Cake |
+-----------------------------------------
+
+Quelle: Adaptiert von Chefkoch.de (Rezept von Fluppdiwupp: Schoko-Protein-Tassenkuchen mit Kaffee)
+Zubereitungszeit: ca. 5 Minuten
+Koch-/Backzeit: ca. 1.5 - 2 Minuten (Mikrowelle)
+Schwierigkeitsgrad: Simpel
+
+------------
+| ZUTATEN |
+------------
+
+// Für 1 Portion (in einer großen Tasse, mindestens 350 ml Fassungsvermögen)
+
+// Trockene Zutaten:
+{
+  "Proteinpulver_Schoko_oder_Kaffee": "28 g (oder neutrales Proteinpulver und etwas mehr Instantkaffee/Kakao)",
+  "Mehl": "12 g",
+  "Zucker_oder_Süßstoff": "nach Geschmack (ca. 1-4 EL, je nach Süße des Proteinpulvers)",
+  "Backkakao_ungesüßt": "5 g (optional, für Schoko-Kaffee-Cake)",
+  "Backpulver": "1/4 TL",
+  "Salz": "1 Prise"
+}
+
+// Flüssige Zutaten:
+{
+  "Instant_Kaffee_Pulver": "1-2 TL (oder frisch gebrühter, abgekühlter starker Kaffee, dann Flüssigkeitsmenge anpassen)",
+  "Heißes_Wasser_für_Kaffee": "ca. 2 EL (falls Instantkaffeepulver verwendet wird, sonst entfällt dies)",
+  "Pflanzenöl": "1 TL (ca. 4 g)",
+  "Milch_oder_Pflanzendrink": "ca. 4 EL (oder kalter Kaffee, Gesamtflüssigkeit beachten)",
+  "Weißweinessig_oder_Apfelessig": "1/2 TL (optional, für Fluffigkeit)",
+  "Kaffeelikör": "1/2 TL (optional, z.B. Kahlua)",
+  "Mineralwasser_mit_Kohlensäure": "1 Schuss (optional, für mehr Fluffigkeit)"
+}
+
+// Optional für den "Cake"-Aspekt (wenn nicht nur in der Tasse gegessen):
+{
+  "Topping_Ideen": ["Puderxylit", "zerkleinerte Kaffeebohnen (dekorativ)", "ein Klecks Joghurt oder Quark", "zuckerfreie Schokosauce"]
+}
+
+-----------------
+| ZUBEREITUNG |
+-----------------
+
+function zubereitenProteinKaffeeCake() {
+
+  // Schritt 1: Kaffee vorbereiten (falls Instantkaffee)
+  // Wenn Instantkaffeepulver verwendet wird:
+  //   Mische das Instantkaffeepulver mit ca. 2 EL heißem Wasser, bis es sich aufgelöst hat.
+  //   Lasse es etwas abkühlen.
+  // Wenn fertiger kalter Kaffee verwendet wird, diesen Schritt überspringen.
+
+  // Schritt 2: Trockene Zutaten mischen
+  // In einer großen mikrowellengeeigneten Tasse (mind. 350 ml):
+  //   Proteinpulver, Mehl, Zucker/Süßstoff, Backkakao (falls verwendet), Backpulver und Salz gut vermischen.
+  //   Stelle sicher, dass keine Klümpchen vorhanden sind.
+
+  // Schritt 3: Flüssige Zutaten vorbereiten und hinzufügen
+  // In einer separaten kleinen Schüssel:
+  //   Den vorbereiteten oder kalten Kaffee, Pflanzenöl, Milch/Pflanzendrink, Essig (optional) und Kaffeelikör (optional) verquirlen.
+
+  // Schritt 4: Alles vermischen
+  //   Gib die flüssigen Zutaten zu den trockenen Zutaten in der Tasse.
+  //   Verrühre alles schnell und gründlich zu einem glatten Teig. Achte darauf, dass keine Mehlnester am Boden bleiben.
+  //   Nicht zu lange rühren, nur bis alles gerade vermischt ist.
+  //   Falls der Teig zu fest erscheint, gib einen kleinen Schuss Mineralwasser oder mehr Milch/Kaffee hinzu.
+  //   Abschmecken und bei Bedarf nachsüßen.
+
+  // Schritt 5: In der Mikrowelle garen
+  //   Stelle die Tasse in die Mikrowelle.
+  //   Bei ca. 800-900 Watt für etwa 1 Minute und 30 Sekunden bis 2 Minuten garen.
+  //   Die genaue Zeit hängt von deiner Mikrowelle ab. Der Kuchen sollte aufgegangen und in der Mitte nicht mehr flüssig sein.
+  //   Beginne mit einer kürzeren Zeit und taste dich heran, um ein Austrocknen zu vermeiden.
+  //   Für einen leicht flüssigen Kern etwas kürzer garen.
+
+  // Schritt 6: Abkühlen und Servieren
+  //   Lasse den Kuchen kurz in der Tasse abkühlen (Vorsicht, sehr heiß!).
+  //   Entweder direkt aus der Tasse löffeln oder vorsichtig auf einen kleinen Teller stürzen.
+  //   Nach Belieben mit Toppings garnieren.
+
+  return "Genieße deinen schnellen Protein Kaffee-Cake!";
+}
+
+// Ausführen der Zubereitung:
+// zubereitenProteinKaffeeCake();
+
+---------------------
+| HINWEISE & TIPPS |
+---------------------
+- Die Süße hängt stark vom verwendeten Proteinpulver ab. Gegebenenfalls die Zuckermenge anpassen.
+- Für eine intensivere Kaffeenote kann ein Espresso-Pulver verwendet werden.
+- Wenn kein Schoko-Proteinpulver zur Hand ist, kann Vanille- oder neutrales Pulver verwendet und die Kakaomenge leicht erhöht werden.
+- Achte darauf, eine ausreichend große Tasse zu verwenden, da der Kuchen beim Backen aufgeht.
+- Jede Mikrowelle ist anders. Teste die optimale Garzeit für dein Gerät.

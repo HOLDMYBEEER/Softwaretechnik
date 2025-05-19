@@ -1,0 +1,15 @@
+# IDE / System
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+
+# macOS & Windows Trash
+$RECYCLE.BIN/
+ehthumbs.db
+
+# Git selbst
+.git/
+
+# Optional: Editor-Backups
+*~
