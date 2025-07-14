@@ -3,7 +3,7 @@ Apfelkuchen für Entwickler
 Zutaten:
 - 1 Apfel
 - Etwas Code
-- Eine Prise Geduld
+- Eine Prise Pflanzen
 
 Zubereitung:
 1. Den Apfel in den Computer stecken.
@@ -11,3 +11,4 @@ Zubereitung:
 3. Warten. Fertig.
 
 Das ist eine Änderung!
+Das ist die Vegane Variante!
